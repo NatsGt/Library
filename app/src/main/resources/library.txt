@@ -1,0 +1,114 @@
+Book:
+ISBN: 9781234567890
+Room: 1
+Row: 1
+Bookshelf: 1
+Author: Peter Jensen
+Author: Anna Smith
+Title: Stories from Abroad
+Publisher: Borgen
+Published: 2012
+NumberOfPages: 156
+
+Book:
+ISBN: 9780987654321
+Room: 1
+Row: 1
+Bookshelf: 2
+Author: Hans Andersen
+Author: Maria Garcia
+Title: Fairy Tales
+Publisher: Andersen Press
+Published: 2005
+NumberOfPages: 250
+
+Book:
+ISBN: 9785555555555
+Room: 2
+Row: 2
+Bookshelf: 3
+Author: John Smith
+Title: Programming in Java
+Publisher: Tech Books Inc.
+Published: 2020
+NumberOfPages: 400
+
+Book:
+ISBN: 9780123456789
+Room: 2
+Row: 2
+Bookshelf: 1
+Author: Emily Brown
+Title: The Secret Garden
+Publisher: Penguin Books
+Published: 1995
+NumberOfPages: 280
+
+Book:
+ISBN: 9789876543210
+Room: 3
+Row: 3
+Bookshelf: 3
+Author: Sarah Johnson
+Author: Michael Lee
+Title: Into the Wild
+Publisher: HarperCollins
+Published: 2007
+NumberOfPages: 320
+
+Book:
+ISBN: 9781928374654
+Room: 3
+Row: 3
+Bookshelf: 3
+Author: Michael Lee
+Title: The Art of Coding
+Publisher: Code Masters
+Published: 2018
+NumberOfPages: 350
+
+Book:
+ISBN: 9783847562938
+Room: 4
+Row: 3
+Bookshelf: 1
+Author: Lisa Adams
+Author: David Brown
+Title: The Science of Space
+Publisher: Stellar Books
+Published: 2015
+NumberOfPages: 220
+
+Book:
+ISBN: 9787654321890
+Room: 4
+Row: 3
+Bookshelf: 2
+Author: Alex Turner
+Title: Cooking with Passion
+Publisher: Gourmet Publications
+Published: 2019
+NumberOfPages: 180
+
+Book:
+ISBN: 9780192837465
+Room: 1
+Row: 3
+Bookshelf: 3
+Author: Julia White
+Author: Robert Davis
+Title: The Art of Painting
+Publisher: Artful Press
+Published: 2013
+NumberOfPages: 300
+
+Book:
+ISBN: 9780998877665
+Room: 1
+Row: 2
+Bookshelf: 1
+Author: Mark Johnson
+Title: The History of Music
+Publisher: Melody House
+Published: 2010
+NumberOfPages: 280
